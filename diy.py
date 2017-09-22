@@ -66,7 +66,7 @@ def connectDatabases():
 
 # Class: 
 
-parts = {'noun': 1, 'verb': 2, 'pronoun': 3, 'adjective': 4, 'adverb': 5, 'preposition': 6, 'conjunction': 7, 'interjection': 8}
+parts = {'noun': 0, 'verb': 1, 'pronoun': 2, 'adjective': 3, 'adverb': 4, 'preposition': 5, 'conjunction': 6, 'interjection': 7}
 
 print("Hello")
 print("Let's get started")
@@ -76,21 +76,37 @@ if(internet_on()):
     # sys.exit
 
 dictionary=PyDictionary()
-print (dictionary.meaning("live"))
+# print (dictionary.meaning("live"))
 
-connectDatabases()
-createMySQLTables()
-count=0
-theClass = ""
-with open("3000Words.txt") as file:
-    for word in file.readlines():
-        NLcur.execute('''INSERT INTO NL ( Word ) VALUES ("''' + word.strip() + '")')
-        for key in dictionary.meaning(word):
-            theClass += str(parts[str.lower(key)])
-        # print(dictionary.meaning(word))
-        count+=1
-        if(count is 500):
-            break
+# connectDatabases()
+# createMySQLTables()
+# count=0
+# theClass = 100000000
+# with open("3000Words.txt") as file:
+#     for word in file.readlines():
+#         NLcur.execute('''INSERT INTO NL ( Word ) VALUES ("''' + word.strip() + '")')
+#         if not dictionary.meaning(word):
+#             print("There has been an error in retrieving the definition of the word: " + word)
+#             NLcur.execute('''INSERT INTO NL ( Class ) VALUES ("''' + str(-1) + '")')
+#             continue
+#         for key in dictionary.meaning(word):
+#             theClass += 10**int(parts[str.lower(key)])
+#             print(theClass)
+#         NLcur.execute('''INSERT INTO NL ( Class ) VALUES ("''' + str(theClass) + '")')
+#         theClass = 100000000
+#         # print(dictionary.meaning(word))
+#         count+=1
+#         if(count is 500):
+#             break
 # print(len(words.words()))
+
+question = ("who", "what", "where", "when", "why", "how")
+
+while():
+    resp = input("Hello!")
+    respList = resp.split()
+    if respList[0].lower().equals(question):
+        isAQuestion(resp)
+    elif resp.lower.
 
 print("done")

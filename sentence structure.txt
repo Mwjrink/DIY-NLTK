@@ -1,0 +1,68 @@
+The boy cried
+the boy is crying
+John is crying
+
+'the' goes before a noun (start of sentence)
+sentences start with a noun or pronoun (subject)
+
+
+'is' before verb for singular present tense
+'are' before verb for plural present tense
+'was' before verb for singular past tense
+'were' before verb for plural past tense
+
+verb is an action
+
+Command:
+open spotify
+(starts with verb)
+
+Request:
+starts with a questionStarter
+Who, What, Where, When, Why, How, define, 
+
+Simple sentences:__
+A simple sentence has only one clause:_
+
+The children were laughing.
+John wanted a bicycle.
+[All] the {girls} are learning English.
+
+Compound sentences:__
+A compound sentence has two or more clauses:_
+
+(We stayed behind) and (finished the job)
+(We stayed behind) and (finished the job), then (we went home)
+
+John shouted and everybody waved.
+We looked everywhere but we couldn’t find him.
+They are coming by car so they should be here soon.
+
+The common coordinating conjunctions are:
+
+and – but – or – nor – so – then – yet
+
+Complex sentences:__
+A complex sentence has a main clause and one or more adverbial clauses. Adverbial clauses usually come after the main clause:_
+
+She had a difficult childhood {because} her father died when she was very young.
+
+Some subordinate clauses can come in front of the main clause:_
+
+Although a few snakes are dangerous, most of them are quite harmless
+Most snakes are quite harmless, although a few are dangerous
+
+A sentence can contain both subordinate and coordinate clauses:_
+
+Although she has always lived in France, she speaks fluent English because her mother was American and her father was Nigerian
+
+There are seven types of adverbial clauses:_
+
+ 	Common conjunctions
+Contrast clauses	 although; though; even though; while;
+Reason clauses	because; since; as
+Place clauses	where; wherever; everywhere
+Purpose clauses	so that; so; because + want
+Result clauses	so that; so … that; such … that
+Time clauses	when; before; after; since; while; as; as soon as; by the time; until
+Conditional clauses	 if; unless; provided (that); as long as
